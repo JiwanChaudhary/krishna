@@ -1,0 +1,23 @@
+{
+  "name": "krishna",
+  "version": "1.0.0",
+  "description": "Learn MERN stack",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "mern",
+    "express",
+    "node"
+  ],
+  "author": "Krishna",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^7.3.4",
+    "nodemon": "^3.0.1"
+  }
+}
